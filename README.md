@@ -31,6 +31,3 @@ Each run creates two files:
 - `jobs_Python_YYYYMMDD_HHMM.json` — structured job data
 - `report_Python_YYYYMMDD_HHMM.txt` — human-readable summary
 
-## 👩‍💻 Developer
-**Unnam Geethika Sai** — B.Tech CSE, NIT Andhra Pradesh (CGPA: 8.9)  
-GitHub: [@GeethikaSai-24](https://github.com/GeethikaSai-24)
